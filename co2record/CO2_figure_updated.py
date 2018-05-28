@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-author: Femke Nijsse
+author: Femke Nijsse, modified by Doskonale Szare using a CO2 composite from Bereiter et al.
 
 Shared under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
 
